@@ -1,9 +1,9 @@
-###EXPLICACION DEL CODIGO
+**EXPLICACION DEL CODIGO**
 
-##CAPTURA DEL CODIGO
+**CAPTURA DEL CODIGO**
 ![](https://i.ibb.co/t8hm31s/PROG.png)
 
-##CODIGO
+**CODIGO**
 
 package application;
 import javafx.application.Application;
@@ -93,7 +93,8 @@ public class Main extends Application {
 }
 
 
-##EXPLICACION DEL CODIGO
+**EXPLICACION DEL CODIGO**
+
 - **Importaciones**
 package application;
 import javafx.application.Application;
@@ -107,6 +108,7 @@ import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
 Estas líneas importan las clases necesarias de JavaFX para construir la interfaz gráfica, incluyendo controles (como botones y campos de texto) y contenedores de diseño (como GridPane, HBox y VBox).
+
 
 - **Clase Principal**
 public class Main extends Application {
