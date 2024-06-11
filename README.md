@@ -1,4 +1,6 @@
 **EXPLICACION DEL CODIGO**
+El código define una aplicación JavaFX que crea una interfaz gráfica con diversos controles organizados en una cuadrícula usando GridPane. Cada control se coloca en una celda específica de la cuadrícula y se añade una etiqueta descriptiva. La interfaz se muestra en una ventana de 400x400 píxeles.
+
 
 **CAPTURA DEL CODIGO**
 ![](https://i.ibb.co/t8hm31s/PROG.png)
