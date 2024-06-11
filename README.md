@@ -8,16 +8,17 @@ El código define una aplicación JavaFX que crea una interfaz gráfica con dive
 
 **CODIGO**
 
-package application;
-import javafx.application.Application;
-import javafx.geometry.Insets;
-import javafx.geometry.Pos;
-import javafx.scene.Scene;
-import javafx.scene.control.*;
-import javafx.scene.layout.GridPane;
-import javafx.scene.layout.HBox;
-import javafx.scene.layout.VBox;
-import javafx.stage.Stage;
+
+    package application;
+    import javafx.application.Application;
+    import javafx.geometry.Insets;
+    import javafx.geometry.Pos;
+    import javafx.scene.Scene;    
+    import javafx.scene.control.*;
+    import javafx.scene.layout.GridPane;
+    import javafx.scene.layout.HBox;
+    import javafx.scene.layout.VBox;
+    import javafx.stage.Stage;
 
 public class Main extends Application {
 
@@ -93,7 +94,7 @@ public class Main extends Application {
     public static void main(String[] args) {
         launch(args);
     }
-}
+    }
 
 
 **EXPLICACION DEL CODIGO**
